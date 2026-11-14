@@ -1,0 +1,9 @@
+requests
+ollama
+vosk
+sounddevice
+psutil
+pyautogui
+pyobjc
+SpeechRecognition
+python-dotenv
